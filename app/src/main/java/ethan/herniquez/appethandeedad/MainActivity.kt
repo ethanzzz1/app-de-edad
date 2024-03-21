@@ -19,8 +19,9 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        val txtNacimiento:EditText = findViewById<EditText>(R.id.txtNacimiento)
-        val btnEdad:Button = findViewById(R.id.btnEdad)
+      
+        }
+
 
     }
 }
